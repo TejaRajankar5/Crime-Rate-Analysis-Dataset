@@ -73,6 +73,7 @@ This dashboard gives a **high-level snapshot** of crime statistics.
 ---
 
 ### 2️⃣ Trend & Enforcement Analysis Dashboard
+<img width="1658" height="863" alt="Trend   Enforcement Analysis Dashboard" src="https://github.com/user-attachments/assets/76e632e5-f53d-41a6-bfa2-92b4f79f08cc" />
 
 This dashboard focuses on **time trends and law enforcement efficiency**.
 
