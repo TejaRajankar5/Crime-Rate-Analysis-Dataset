@@ -1,6 +1,6 @@
 
 # 🛡️ Crime Rate Analysis Dashboard
-
+![project image](city-crime-rates-920.jpg)
 ## 📌 Project Overview
 
 This project presents a **comprehensive crime analysis dashboard** that explores crime patterns across **countries, states, cities, age groups, and crime types**.
