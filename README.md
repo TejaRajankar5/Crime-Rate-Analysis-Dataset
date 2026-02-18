@@ -1,6 +1,4 @@
 
----
-
 # 🛡️ Crime Rate Analysis Dashboard
 
 ## 📌 Project Overview
