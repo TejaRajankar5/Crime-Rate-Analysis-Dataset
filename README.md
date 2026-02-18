@@ -1,5 +1,3 @@
-Here’s a clean, **GitHub-ready README.md** you can directly use for this project 👇
-(It’s written exactly for the dashboards you shared.)
 
 ---
 
