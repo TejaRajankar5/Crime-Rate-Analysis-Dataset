@@ -20,6 +20,7 @@ The analysis focuses on:
 ## 📊 Dashboards Included
 
 ### 1️⃣ Crime Overview Dashboard
+<img width="1637" height="843" alt="Crime Overview Dashboard" src="https://github.com/user-attachments/assets/dd1b905f-c567-4580-a0ba-136a6c4f2b43" />
 
 This dashboard gives a **high-level snapshot** of crime statistics.
 
